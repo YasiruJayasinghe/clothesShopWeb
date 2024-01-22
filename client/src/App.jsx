@@ -6,9 +6,9 @@ import Footer from "./pages/shared/Footer";
 function App() {
   return (
     <>
-    <Navbar/>
+      <Navbar />
       <Outlet></Outlet>
-      <Footer/>
+      <Footer />
     </>
   );
 }
