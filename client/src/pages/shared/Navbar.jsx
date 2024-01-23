@@ -42,7 +42,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <Link to="/" className="btn btn-ghost text-xl">
+        <Link to="/" className="btn btn-ghost text-3xl">
           Glamour <span className="text-[#0058A0]">X</span>
         </Link>
       </div>
